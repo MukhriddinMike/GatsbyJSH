@@ -1,10 +1,13 @@
 import React from "react"
 import { Link } from "gatsby"
 import Layout from '../components/Layout'
-export default function Home() {
+const Tags = () => {
   return (
     <Layout>
-     <h1>Home Page</h1>
+      <h1>hello from Tags page</h1>
+ 
     </Layout>
   )
 }
+
+export default Tags
