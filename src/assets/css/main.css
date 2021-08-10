@@ -1,9 +1,10 @@
 /* @import url("https://fonts.googleapis.com/css?family=Montserrat:400|Inconsolata:400"); */
 *,
-::after,
+/* ::after,
 ::before {
   box-sizing: border-box;
-}
+} */
+/* otherwise it is going over container */
 
 :root {
   /* COLORS  */
